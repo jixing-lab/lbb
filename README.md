@@ -8,7 +8,7 @@ lbb是一个企业信息查询工具，可以帮助企业查询自身对外公�
 
 [小蓝本](https://xiaolanben.com/)用于查询企业信息及新媒体【含公众号、小程序、快手、抖音、微博】、app、注册网站等。
 
-​	
+
 
 ### 配置
 
@@ -97,6 +97,9 @@ C:\Users\lbb>lbb_win.exe -c conf.yaml -e q3b6b8c0fe6d2e4c2ace66a5e58e17f56 -o re
 <img src="images/image-20220208100200763.png" alt="image-20220208100200763" style="zoom: 33%;" />
 
 <img src="images/image-20220208100213980.png" alt="image-20220208100213980" style="zoom: 33%;" />
+
+### 下载
+https://github.com/PoJun-Lab/lbb/releases
 
 ### 交流群加入
 
