@@ -4,17 +4,17 @@
 
 ### 简介
 
-​	lbb是一个企业信息查询工具，可以帮助企业查询自身对外公开的应用、新媒体，网站等。
+	lbb是一个企业信息查询工具，可以帮助企业查询自身对外公开的应用、新媒体，网站等。
 
-​	[小蓝本](https://xiaolanben.com/)用于查询企业信息及新媒体【含公众号、小程序、快手、抖音、微博】、app、注册网站等。
+	[小蓝本](https://xiaolanben.com/)用于查询企业信息及新媒体【含公众号、小程序、快手、抖音、微博】、app、注册网站等。
 
-​	
+	
 
 ### 配置
 
-​	登录小蓝本获取cookie中的userId、token字段值，配置conf.yaml。
+	登录小蓝本获取cookie中的userId、token字段值，配置conf.yaml。
 
-​	经测试会话有效期为一周。
+	经测试会话有效期为一周。
 
 ```yaml
 browser_path: 'C:\Program Files\Google\Chrome\Application\chrome.exe' # 浏览器的路径
